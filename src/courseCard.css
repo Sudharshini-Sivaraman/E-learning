@@ -1,0 +1,113 @@
+.courseCard {
+    padding: 50px 0;
+  }
+.container3 h1{
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+
+ /*.courseCard .container2 {
+    box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
+    background-color: #fff;
+    padding: 30px 20px;
+    transition: 0.5s;
+    height: 300px;
+    width: 200px; 
+  }
+  .courseCard .container2 .show {
+    opacity: 0;
+  }
+  .courseCard .container2:hover {
+    background-color: #f78f2dd5;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .courseCard .container2:hover .show {
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .courseCard .container2:hover h1 {
+    color: #fff;
+  } 
+*/
+
+  .contentflex{
+    width: 700px;
+    height: 440px;
+    border: 2px solid black;
+    background-color:#f78f2dd5;
+  }
+  .contentflex:hover{
+    background-color: rgb(252, 249, 247);
+  }
+  
+  .courseCard .items {
+
+    background-color: #fefdfc;
+    padding: 30px;
+    text-align: center;
+    padding-left: 400px;
+   
+  }
+  
+  .courseCard .img {
+    width: 150px;
+    height: 100px; 
+  }
+  .courseCard img {
+    width: 100%;
+    height: 100%;   
+  }
+  .img{
+    margin-left: 250px;
+    
+  }
+  .courseCard .text {
+    margin-left: 15px;
+    text-align: left;
+  }
+  .courseCard .text h1 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+  }
+  .courseCard .rate {
+    margin: 20px 0;
+    color:#000000d5;
+  }
+  .courseCard .rate i {
+    font-size: 13px;
+    margin-right: 5px;
+  }
+ 
+  .courseCard .details .box {
+    display:flex;
+    align-items: center;
+    color:black;
+  }
+  .courseCard .details span {
+    color: #000000d5;
+    font-weight: 500;
+    font-size: 15px;
+  }
+  .outline-btn{
+    background-color: #ffffff;
+    color: rgb(1, 1, 1);
+    border:1px solid black;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+  .outline-btn:hover {
+    background-color: #000000fc;
+    color: white;
+  }
+  /*.courseCard h3 {
+    font-weight: 500;
+    color:#f78f2dd5;
+  }*/

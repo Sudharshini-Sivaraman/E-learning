@@ -1,0 +1,81 @@
+/* login.css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    
+  }
+  .body{
+    width: 100%;
+    
+  }
+  .login {
+    width: 100%;
+    height: 97vh;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/011/171/111/original/white-background-with-orange-geometric-free-vector.jpg);
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .login p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    padding: 70px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.808);
+    text-shadow: 3cm;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    
+  }
+  .form-phno{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+
+  }
+  
+  .name1,
+  .btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .name1 label,
+  .form-phno label {
+    font-size: larger;
+    color: rgb(0, 0, 0);
+    margin-bottom: 5px;
+  }
+  
+  .btn button {
+    background-color: #f7a102;
+    color: rgb(1, 1, 1);
+    border: 1px solid black;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+  
+  .btn button:hover {
+    background-color: #828280fc;
+  }
+  
+  input[type='text'],
+  input[type='number'] {
+    padding: 5px;
+  }
+  

@@ -1,0 +1,47 @@
+
+.bg{
+    width:100%;
+    height:100vh;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/005/263/696/original/e-learning-concept-isometric-mobile-or-smartphone-pencil-book-and-cloud-computing-for-study-on-green-and-white-background-online-study-from-home-online-course-e-book-store-free-vector.jpg);
+    background-size:cover;
+  
+   
+  }
+.bg h2{
+  color: rgba(228, 112, 11, 0.948);
+  padding-top: 150px;
+  padding-left: 1200px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bg h1{
+  color: black;
+  padding-left: 1100px;
+  font-family:FontAwesome;
+  text-align: center;
+}
+.bg p{
+  padding-left: 1150px;
+  font-size: larger;
+}
+.bg .btn2 {
+  color: rgb(1, 1, 1);
+  font-size: 30px; 
+ 
+}
+
+.btn2 {
+  padding-top: 50px;
+  margin-left: 1250px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.btn2 button {
+  background-color: #fff; 
+  transition-duration: 0.4s;
+}
+
+.btn2 button:hover {
+  background-color: rgb(35, 162, 141); 
+  color: #fff;
+}

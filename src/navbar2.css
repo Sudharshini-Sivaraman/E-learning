@@ -1,0 +1,64 @@
+.hero1 {
+  height: 0px;
+  padding: 2px 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav2 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px 20px;
+}
+
+#links13 {
+  display: flex;
+  list-style: none;
+}
+
+#links13 li {
+  margin: 5px 10px;
+}
+
+#links13 li a {
+  color: #080000;
+  position: relative;
+  padding: 5px 0;
+  text-decoration: none;
+}
+
+#links13 li a:hover {
+  color: #f78f2dd5;
+}
+
+#links13 li a:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: #f78f2dd5;
+  transition: 0.3s;
+  bottom: 0;
+}
+
+#links13 li a:hover:after {
+  width: 100%;
+}
+
+.instalink,
+.phlink {
+  display: flex;
+  align-items: center;
+}
+
+.phlink {
+  margin-left: 10px;
+}
+
+.mobileNumber {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #edededfb;
+}

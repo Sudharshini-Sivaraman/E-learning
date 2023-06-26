@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding: 1px;
+    box-sizing:border-box;
+    
+}
+.home{
+    width:100%;
+      height: 100vh;
+     background-image: url(https://static.vecteezy.com/system/resources/previews/005/131/785/non_2x/beautiful-woman-in-graduation-gown-is-holding-books-and-certificate-on-yellow-background-free-photo.jpg);
+     background-size:cover;
+     background-repeat: no-repeat;
+  }  
+.home h1,h2{
+    color: white;
+    padding: 5px;
+    /* padding-left: 100px; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.home .hd2 h2{
+    color:brown;
+    padding:3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.home .hd3 h3{
+    color: white;
+    padding: 5px;
+    padding-left: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn3{
+    font-size: x-large;
+    padding-top: 50px;
+    margin-left: 250px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.btn3 button {
+    background-color: #fff; 
+    transition-duration: 0.4s;
+  }
+  
+  .btn3 button:hover {
+    background-color: brown; 
+    color: #fff;
+  }

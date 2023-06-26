@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    padding: 1px;
+    box-sizing:border-box;
+    font-family: 'poppins',sans-serif;
+
+}
+ .pg2 .heading h1{
+  color:black;
+ 
+  padding-top: 50px;
+}
+.pg2{
+    width:100%;
+    height: 100vh;
+    background-image:url(https://i.pinimg.com/originals/27/50/73/275073e800af89227a5c10c04ddb6b5b.jpg);
+    background-size:cover;
+}
+.pg2 .heading{
+  padding: 50px;
+ 
+}
+.pg2 h2{
+  color: black;
+ 
+}
+.pg2 .pic1{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  margin-top: 150px;
+  
+}
+.pg2 .pic2{
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+  margin-top: 150px;
+}
+.pg2 .pic3{
+   margin-top: 150px;
+    padding: 6px;  
+  
+}
+.pg3{
+  width:100%;
+  height: 800px;
+  background-image: url(https://i.pinimg.com/originals/27/50/73/275073e800af89227a5c10c04ddb6b5b.jpg);
+  background-size:cover;
+}
+.pg3 .heading2{
+  padding: 50px;
+  padding-top:90px;
+  color: black;
+  
+}
+.pg3 .heading2 h1{
+  color:#000000fc;
+  padding-top: 50px;
+}
+.pg3 h2{
+  color: black;
+}
+.pg3 .pic4{
+  
+float: left;
+width: 33.33%;
+padding-left: 70px;
+margin-top: 150px;
+
+}
+.pg3 .pic5{
+ 
+  float: left;
+  width: 33.33%;
+padding: 5px;
+margin-top: 150px;
+
+
+
+}
+.pg3 .pic6{
+  margin-top: 150px;
+  padding: 9px;
+  width: 33.33%;
+  float:left;
+  padding-right: 70px;
+  
+}
+.pg3 .pic7{
+  margin-top: -180px;
+  padding: 3px;
+  float:right;  
+  
+}
